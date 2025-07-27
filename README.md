@@ -4,4 +4,4 @@ Instead of a 100-line README that pretends to say something, this one is actuall
 
 [Substack](https://csunderthehood.substack.com/) <br>
 
-[Personal Blog]([https://chettriyuvraj.github.io](https://chettriyuvraj.github.io/blog)).
+[Personal Blog](https://chettriyuvraj.github.io](https://chettriyuvraj.github.io/blog))
